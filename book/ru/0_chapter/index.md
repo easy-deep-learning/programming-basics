@@ -1,12 +1,12 @@
 Работа в процессе, пока эта глава — поток сознания, мало пригодного для чтения.
 
 материалы
-https://ru.wikipedia.org/wiki/История_языков_программирования
-https://ru.wikipedia.org/wiki/Гарвардская_архитектура
-https://ru.wikipedia.org/wiki/Структурное_программирование
-https://ru.wikipedia.org/wiki/Команда_перехода
-https://ru.wikipedia.org/wiki/Goto
-https://ru.wikipedia.org/wiki/Булева_алгебра
+- https://ru.wikipedia.org/wiki/История_языков_программирования
+- https://ru.wikipedia.org/wiki/Гарвардская_архитектура
+- https://ru.wikipedia.org/wiki/Структурное_программирование
+- https://ru.wikipedia.org/wiki/Команда_перехода
+- https://ru.wikipedia.org/wiki/Goto
+- https://ru.wikipedia.org/wiki/Булева_алгебра
 
 # Введение. Что такое программа?
 
